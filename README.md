@@ -54,3 +54,7 @@ Now, I would be answering the following questions given below through Data Analy
 4.) Who was alone and who was with family?
 
 5.) What factors helped someone survive the sinking?
+
+6.) Did the deck have an effect on the passengers survival rate? Did this answer match up with your intuition?
+
+7.) Did having a family member increase the odds of surviving the crash?
