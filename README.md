@@ -1,6 +1,8 @@
 # titanic-data_analysis
 Hello Everyone before begining this project I would like to recommend you to read this description thoroughly for a proper understanding of my project.
-Let's Begin 
+
+Let's Begin
+
 The dataset(train.csv) used in this project can be downloaded through one of the most popular website for Datasets that's Kaggle or you can refer my repository too.For understanding this project you need to have an intermediate level of knowledge on Python and its libraries namely Pandas, Numpy, Matplotlib, Seaborne and also some basic knowledge of Statistics.
 
 Data Dictionary:
@@ -40,3 +42,11 @@ Parent = mother, father
 Child = daughter, son, stepdaughter, stepson
 
 Some children travelled only with a nanny, therefore parch=0 for them.
+
+Now, I would be answering the following questions given below through Data Analysis and Visualization in Python:
+
+1.) Who were the passengers on the Titanic? (Ages,Gender,Class,..etc)
+2.) What deck were the passengers on and how does that relate to their class?
+3.) Where did the passengers come from?
+4.) Who was alone and who was with family?
+5.) What factors helped someone survive the sinking?
