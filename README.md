@@ -58,3 +58,5 @@ Now, I would be answering the following questions given below through Data Analy
 6.) Did the deck have an effect on the passengers survival rate? Did this answer match up with your intuition?
 
 7.) Did having a family member increase the odds of surviving the crash?
+
+Now , lets start the project click on Titanic_expedition.ipynb
